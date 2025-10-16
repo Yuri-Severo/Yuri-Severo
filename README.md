@@ -1,8 +1,9 @@
-# Welcome!
-Helllo, i'm Yuri Severo, and i am a Backend developer.
+<div align="center">
+<h1>Welcome!</h1>
+<h2>Helllo, i'm Yuri Severo, and i am a Backend developer.</h2>
+</div>
 
-# Tech Stack
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -16,10 +17,9 @@ Helllo, i'm Yuri Severo, and i am a Backend developer.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
-### GitHub Stats
-<div>
-  <img height ="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Yuri-Severo&show_icons=true&theme=graywhite"/>
-  <img height ="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Severo&size_weight=0.5&count_weight=0.5&theme=graywhite"/>
+<div align="center">
+  <img height ="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Yuri-Severo&show_icons=true&theme=holi"/>
+  <img height ="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Severo&size_weight=0.5&count_weight=0.5&theme=holi"/>
 </div>
 
 ### Contacts
